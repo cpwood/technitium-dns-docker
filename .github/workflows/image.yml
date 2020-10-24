@@ -2,7 +2,7 @@ name: build our image
 
 on:
   push:
-    branches: main
+    branches: master
 
 env:
   PRODUCT_VERSION: '5.4.0'
